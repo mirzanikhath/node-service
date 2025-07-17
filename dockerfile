@@ -1,4 +1,4 @@
-# Use official Node.js LTS base image
+#  base image
 FROM node:18-alpine
 
 # Create app directory
